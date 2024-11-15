@@ -27,7 +27,7 @@ SECRET_KEY = '2y3*%r@d)w5+9@*)i3tdar5q)=^rl^o@zii7)3m4#l^xmr&cqt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['heart.up.railway.app', '127.0.0.1']
+ALLOWED_HOSTS = ['heart.up.railway.app', '127.0.0.1','heart-care-o5ce.onrender.com']
 
 
 # Application definition
